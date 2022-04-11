@@ -1,7 +1,7 @@
 # joomla-welcome
 Say hello to a user, Good morning, Good afternoon, Good evening
 
-__Tested with Joomla 3.X php7.4__
+__Tested with Joomla 3.X php7.4 and Joomla 4.1.2 php8.0.17__
 
 ## Install
 - You can also change then times and the text
